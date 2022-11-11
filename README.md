@@ -1,6 +1,6 @@
 # AdaBoost-Implementation
 
-This is an implementation of AdaBoost for binary classification. This algorithm uses multiple weak hypotheses together to build a more robust hypothesis. For the base hypothesis, I used stump with the help of DessicionTreeClassifire from sklearn library. You can also see the algorithm in the bellow figure :
+This is an implementation of AdaBoost for binary classification. This algorithm uses multiple weak hypotheses together to build a more robust hypothesis. For the base hypothesis, I used stump with the help of DessicionTreeClassifire from sklearn library. You can also see the algorithm in the following figure :
 
 
 ![alt text](adaboost_algo.png "AdaBoost algorithm")
